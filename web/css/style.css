@@ -1,0 +1,6 @@
+select.form-control:not([size]):not([multiple]) {
+     height: auto;
+}
+.form-group .form-control, .input-group .form-control {
+    /* padding: 10px 10px 10px 10px; */
+}
